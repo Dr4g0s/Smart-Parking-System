@@ -1,9 +1,9 @@
 # Smart-Parking-System
 
-##Description
+#Description
   Smart Parking System using android and arduino
   
-## Tools
+# Tools
   -Arduino IDE
   -Android Studio
   -Arduino Board
@@ -11,7 +11,7 @@
   -Node MCU
   -Firebase
   
-##technologies
+#technologies
   - Internet Of Things (IOT)
   - Firebase
   - Multiple Ultrasonic Sensor Connection Using Three Wire Connection
