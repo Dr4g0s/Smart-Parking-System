@@ -4,12 +4,12 @@
   Smart Parking System using android and arduino
   
 # Tools
-  -Arduino IDE
-  -Android Studio
-  -Arduino Board
-  -8 Ultrasonic Sensors
-  -Node MCU
-  -Firebase
+  - Arduino IDE
+  - Android Studio
+  - Arduino Board
+  - 8 Ultrasonic Sensors
+  - Node MCU
+  - Firebase
   
 # technologies
   - Internet Of Things (IOT)
